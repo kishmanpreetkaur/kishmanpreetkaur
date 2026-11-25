@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I am Kishmanpreet Kaur!
 
-<!--
-**kishmanpreetkaur/kishmanpreetkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+* B.Tech CSE Student at K.R. Mangalam University, Gurugram
+* Currently learning: Python, Linux shell scripting, and Git/GitHub workflows
+* Interested in: Artificial Intelligence & Machine Learning(AI-ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+Category	Technologies
+Languages	Python (Beginner), Bash / Shell Scripting
+Tools	Git, GitHub, VS Code, Linux Terminal
+Concepts	File Systems, Process Management, Markdown
+
+Featured Projects
+
+* CSE103 Lab — LAB 3
+    * Git workflows, API interaction, and Markdown documentation
+
+Currently Working On
+
+* Semester 1 lab projects and improving problem-solving skills
+
+Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/[your-linkedin-id]
+  
